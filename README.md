@@ -6,14 +6,14 @@ It helps in checking network performance and displaying basic monitoring informa
 
 ## Features
 - Real-time monitoring (basic level)
-- Simple and clean interface
-- Easy to understand output
+- Display Network Performance Detail
+- Simple and User-friendly Interface
 
 ## Tech Used
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+- HTML (Structure)
+- CSS (Styling)
+- JavaScript (Logic)
+- Git & GitHub (Version Control)
 - Vercel (for deployment)
 
 ## Live Project
@@ -34,8 +34,8 @@ npm install
 npm start
 
 ## About Me
-I am a final year engineering student interested in software development and learning new technologies.  
-This project helped me understand how real-world applications are structured and deployed.
+I am a final year engineering student with a strong interest in software development. 
+I enjoy building practical projects and continuously improving my skills by learning new technologies.
 
 ## Note
 This is a beginner-level project and I am continuously improving it.
