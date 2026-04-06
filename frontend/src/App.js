@@ -3,7 +3,7 @@ import React from "react";
 function App() {
   return (
     <div style={{ backgroundColor: "black", color: "white", padding: "20px", minHeight: "100vh" }}>
-      <h1>🔥 Network Monitor Dashboard</h1>
+      <h1> Network Monitor Dashboard</h1>
 
       <h2>📊 Network Status</h2>
 
